@@ -1,1 +1,1 @@
-affine-self-hosted:latest
+allanpk716/chinesesubfinder

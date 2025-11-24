@@ -1,1 +1,1 @@
-aexus/solara-music:latest
+mirhub/mirror-hub:latest

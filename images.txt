@@ -1,1 +1,1 @@
-seatable/seatable-developer:6.0.0
+redis:8.4.0

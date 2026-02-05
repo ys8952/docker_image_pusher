@@ -1,1 +1,1 @@
-redis:8.4.0
+heizicao/document:latest

@@ -1,1 +1,1 @@
-heizicao/document:latest
+yanwk/comfyui-boot:cpu-20260604

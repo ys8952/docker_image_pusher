@@ -1,1 +1,2 @@
-yanwk/comfyui-boot:cpu-20260604
+registry.librechat.ai/danny-avila/librechat-dev:latest
+registry.librechat.ai/danny-avila/librechat-rag-api-dev-lite:latest

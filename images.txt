@@ -1,1 +1,1 @@
-ghcr.io/ys8952/anime-tracker:latest
+nginx:latest
